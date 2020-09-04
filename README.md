@@ -1,4 +1,4 @@
-# Predicting-the-Strength-of-high-performance-concrete
+# Predicting the Strength of high performance concrete
 
 Focus Topic: Featurization, Model Selection & Tuning
 
